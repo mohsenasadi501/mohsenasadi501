@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mohsenasadi501_94765](https://medium.com/@mohsenasadi501_94765)
 
-- 💬 Ask me about **react, Dotnet, Flutter**
+- 💬 Ask me about **React, Dotnet, Flutter**
 
 - 📫 How to reach me **mohsenasadi501@yahoo.com**
 
