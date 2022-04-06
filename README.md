@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohsenasadi501](https://github.com/mohsenasadi501)
 
-- 📝 I regularly write articles on [https://medium.com/@mohsenasadi501_94765](https://medium.com/@mohsenasadi501_94765)
+- 📝 I regularly write articles on [https://medium.com/@mohsenasadi501_94765](https://medium.com/@mohsenasadi501)
 
 - 💬 Ask me about **React, Dotnet, Flutter**
 
