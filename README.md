@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohsen Asadi</h1>
-<h3 align="center">A passionate Software Engineer from Iran</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on **NFT MarketPlace**
 
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mohsenasadi501](https://medium.com/@mohsenasadi501)
 
-- 💬 Ask me about **React, Dotnet, Flutter**
+- 💬 Ask me about **React, .Net, Flutter**
 
 - 📫 How to reach me **mohsenasadi501@yahoo.com**
 
