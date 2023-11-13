@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohsen Asadi</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on **NFT MarketPlace**
+- 🔭 I’m currently working on **Designing Microservice Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohsenasadi501](https://github.com/mohsenasadi501)
 
 - 📝 I regularly write articles on [https://medium.com/@mohsenasadi501](https://medium.com/@mohsenasadi501)
 
-- 💬 Ask me about **React, .Net, Flutter**
+- 💬 Ask me about **React, .Net, Microservice**
 
 - 📫 How to reach me **mohsenasadi501@yahoo.com**
 
