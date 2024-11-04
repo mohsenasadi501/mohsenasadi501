@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mohsenasadi501](https://medium.com/@mohsenasadi501)
 
-- 💬 Ask me about **.Net, c#, React, MS-SQL , Microservice, Node.js, Blockchain, Rust, Web3.js, Solidity**
+- 💬 Ask me about **.Net, c#, React, MS-SQL , MongoDB, Redis,  Microservice, Node.js, Blockchain, Rust, Web3.js, Solidity**
 
 - 📫 How to reach me **mohsenasadi5011@gmail.com**
 
