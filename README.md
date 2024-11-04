@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Mohsen Asadi</h1>
 <h3 align="center">Senior Software Engineer</h3>
 
-- 🔭 I’m currently working on **Microservice Accounting Project**
+- 🔭 I’m currently working on **Defi Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohsenasadi501](https://github.com/mohsenasadi501)
 
 - 📝 I regularly write articles on [https://medium.com/@mohsenasadi501](https://medium.com/@mohsenasadi501)
 
-- 💬 Ask me about **.Net, c#, React, MS-SQL , Microservice**
+- 💬 Ask me about **.Net, c#, React, MS-SQL , Microservice, Node.js, Blockchain, Rust, Web3.js, Solidity**
 
 - 📫 How to reach me **mohsenasadi5011@gmail.com**
 
